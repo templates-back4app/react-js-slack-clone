@@ -1,5 +1,7 @@
 # Back4App React Slack Clone
 
+Complete Guide here: https://www.back4app.com/docs/react/real-time/react-chat-app
+
 This [React](https://reactjs.org/) app uses [Parse Server](https://parseplatform.org/) through [Back4App](https://www.back4app.com/) to create a Slack clone, with user management, text channels and chat messaging. It also uses the [`@parse/react`](https://github.com/parse-community/parse-react/tree/master/packages/parse-react) hook to enable Live Query and live updates on the app.
 
 ## Back4App Setup
